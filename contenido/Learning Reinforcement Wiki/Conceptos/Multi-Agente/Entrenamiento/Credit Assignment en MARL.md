@@ -37,9 +37,9 @@ $$
 
 Donde \( R_{-i} \) es la recompensa obtenida sin el agente \( i \).
 
-### Ventaja contrafactual (como en COMA)
+### Ventaja contrafactual (como en [[Counterfactual Multi-Agent (COMA)|COMA]])
 
-Se calcula la **ventaja contrafactual** comparando la acción real del agente con una acción hipotética promedio:
+Se calcula la [[Ventaja Contrafactual]] comparando la acción real del agente con una acción hipotética promedio:
 
 $$
 A^i(s, a^i) = Q(s, a^i, a^{-i}) - \sum_{\tilde{a}^i} \pi^i(\tilde{a}^i | s) Q(s, \tilde{a}^i, a^{-i})

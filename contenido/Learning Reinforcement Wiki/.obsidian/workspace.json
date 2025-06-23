@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inicio.md",
+                "file": "Startups/Sin título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inicio"
+              "title": "Sin título"
             }
           }
         ]
@@ -169,14 +169,20 @@
   },
   "active": "6b2f29527514b51d",
   "lastOpenFiles": [
-    "Guías/Herramientas útiles para Inteligencia Artificial.md",
+    "Conceptos/Multi-Agente/Algoritmos Multi-Agente/Counterfactual Multi-Agent (COMA).md",
+    "Startups/Sin título.md",
+    "Conceptos/Multi-Agente/Entrenamiento/Credit Assignment en MARL.md",
+    "Conceptos/Multi-Agente/Algoritmos Multi-Agente/Multi-Agent Deep Deterministic Policy Gradient (MADDPG).md",
+    "Conceptos/Multi-Agente/Entrenamiento/Ventaja Contrafactual.md",
+    "Frameworks y librerías/Ray RLlib.md",
+    "Frameworks y librerías/PettingZoo.md",
     "Inicio.md",
+    "Frameworks y librerías",
+    "Guías/Herramientas útiles para Inteligencia Artificial.md",
     "Guías/Algoritmos Multi-Agente - Mayo 2025.md",
     "Conceptos/Reinforcement Learning (RL).md",
     "Conceptos/Multi-Agente/Multi-Agent Reinforcement Learning (MARL).md",
-    "Conceptos/Multi-Agente/Entrenamiento/Credit Assignment en MARL.md",
     "Conceptos/Multi-Agente/Entrenamiento/Centralized Training with Decentralized Execution (CTDE).md",
-    "Conceptos/Multi-Agente/Algoritmos Multi-Agente/Multi-Agent Deep Deterministic Policy Gradient (MADDPG).md",
     "Conceptos/Matematicas/Partially Observable Markov Decision Process (POMDP).md",
     "Conceptos/Matematicas/Markov Decision Process (MDP).md",
     "Conceptos/Matematicas/Inferencia bayesiana.md",
@@ -198,13 +204,7 @@
     "MULTI-AGENTE",
     "desarrollo/Contribuir.md",
     "desarrollo",
-    "Conceptos/Comunicación",
     "().md",
-    "-- Guia de uso.canvas",
-    "2025-05-02.md",
-    "DDPG (Deep Deterministic Policy Gradient).md",
-    "POMDP.md",
-    "hola.md",
-    "www.google.es.md"
+    "-- Guia de uso.canvas"
   ]
 }
